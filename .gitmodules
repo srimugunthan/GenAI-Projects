@@ -1,0 +1,3 @@
+[submodule "youtube-bookmarks-summariser"]
+	path = youtube-bookmarks-summariser
+	url = https://github.com/srimugunthan/youtube-bookmarks-summariser.git

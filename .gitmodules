@@ -4,3 +4,24 @@
 [submodule "FinetuneLLMProject"]
 	path = FinetuneLLMProject
 	url = https://github.com/srimugunthan/FinetuneLLMProject.git
+[submodule "semantic-similarity-from-localembedding"]
+	path = semantic-similarity-from-localembedding
+	url = https://github.com/srimugunthan/semantic-similarity-from-localembedding.git
+[submodule "anamoly-detection-localexplainer-agent"]
+	path = anamoly-detection-localexplainer-agent
+	url = https://github.com/srimugunthan/anamoly-detection-localexplainer-agent.git
+[submodule "ResearchPaper-Reading-Assist-Agent"]
+	path = ResearchPaper-Reading-Assist-Agent
+	url = https://github.com/srimugunthan/ResearchPaper-Reading-Assist-Agent.git
+[submodule "dashboard-generator"]
+	path = dashboard-generator
+	url = https://github.com/srimugunthan/dashboard-generator.git
+[submodule "chat-with-pdf-chunking-strategies-compare"]
+	path = chat-with-pdf-chunking-strategies-compare
+	url = https://github.com/srimugunthan/chat-with-pdf-chunking-strategies-compare.git
+[submodule "chat-with-dataset-webapp"]
+	path = chat-with-dataset-webapp
+	url = https://github.com/srimugunthan/chat-with-dataset-webapp.git
+[submodule "data-analyst-crewAI"]
+	path = data-analyst-crewAI
+	url = https://github.com/srimugunthan/data-analyst-crewAI.git

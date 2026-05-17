@@ -25,3 +25,6 @@
 [submodule "data-analyst-crewAI"]
 	path = data-analyst-crewAI
 	url = https://github.com/srimugunthan/data-analyst-crewAI.git
+[submodule "rlhf-align-financial-hedging"]
+	path = rlhf-align-financial-hedging
+	url = https://github.com/srimugunthan/rlhf-align-financial-hedging.git

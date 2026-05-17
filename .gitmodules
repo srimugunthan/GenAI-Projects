@@ -28,3 +28,6 @@
 [submodule "rlhf-align-financial-hedging"]
 	path = rlhf-align-financial-hedging
 	url = https://github.com/srimugunthan/rlhf-align-financial-hedging.git
+[submodule "document-extraction-vlmfinetuning"]
+	path = document-extraction-vlmfinetuning
+	url = https://github.com/srimugunthan/document-extraction-vlmfinetuning

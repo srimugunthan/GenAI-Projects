@@ -31,3 +31,6 @@
 [submodule "document-extraction-vlmfinetuning"]
 	path = document-extraction-vlmfinetuning
 	url = https://github.com/srimugunthan/document-extraction-vlmfinetuning
+[submodule "low-latency-inference-system"]
+	path = low-latency-inference-system
+	url = https://github.com/srimugunthan/low-latency-inference-system

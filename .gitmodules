@@ -34,3 +34,6 @@
 [submodule "low-latency-inference-system"]
 	path = low-latency-inference-system
 	url = https://github.com/srimugunthan/low-latency-inference-system
+[submodule "redteamagentloop-cli"]
+	path = redteamagentloop-cli
+	url = https://github.com/srimugunthan/redteamagentloop-cli
